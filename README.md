@@ -1,13 +1,8 @@
 #Goal: characteristics and behavior of the position property: static and relative.
 
-Link >> https://ro6son.github.io/Position-Static-Relative-CSS/
+Play >>
 
-![image](https://user-images.githubusercontent.com/91978309/225719076-4d522280-5dba-4cef-b8c5-23c207a9d196.png) ![image](https://user-images.githubusercontent.com/91978309/225719188-7d254fb4-500d-4438-bb84-cabe3eec9f67.png)
-
-
-
-
-
+https://user-images.githubusercontent.com/91978309/225726112-a1f2c42f-0bd5-4ee7-8879-a9d0c0f9bfa9.mp4
 
 
 
