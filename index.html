@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Position: Static-relative</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/position.css">
+</head>
+
+<body>
+    <h1 class="titulo"><strong>Click to toggle color</strong></h1>
+    <div class="elementExample elementExample_first elementExample_isActive">
+        Next >
+    </div>
+    <div class="elementExample elementExample_last">
+        < Back </div>
+            <script src="js/position.js"></script>
+</body>
+
+</html>
+
+<!-- Note:
+
+#Goal: characteristics and behavior of the position property: static and relative.
+
+    1. Every element created comes with a 'position: static' by default, that is, we cannot move the element.
+    2. Assigning a position: The 'position: relative' takes into account the relative position of where the element was created and moves to
+    the indicated location.
+    3. The 'position: relative' allows us to use 4th properties being them; top, bottom, left, right. Attention: The element will move
+    taking into account the place where it was created, that is, the place it is occupying.
+    4. Regarding the 'z-index' property, it allows us to change the z axis, which by default has a value of 0, which would be the browser context.
+    If we change the value from 0 to 1 it means that we are creating a new context for this element put in front of the browser context, that is, in the screen.
+
+
+-->
